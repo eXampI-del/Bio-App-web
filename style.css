@@ -1,0 +1,29 @@
+body{
+  
+background: #63D471;
+padding: 20px;
+color: white;
+text-align: center;
+}
+h1{
+  font-size: large;
+}
+.profile-img{
+  width: 50%;
+  border: 50%;
+}
+p{
+  font-size: small;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.btn{
+  display: block;
+  color: pink;
+  padding: 20px;
+  background: white;
+  margin: 16px;
+  box-shadow: 10px 10px lightblue;
+}
